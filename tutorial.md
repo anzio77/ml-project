@@ -3,7 +3,7 @@
 # Tutorials
 ## 1. File objects
 
-1. Syntax of open is open(<FILE PATH>, 'mode')\
+1. Syntax of open is open('FILE_PATH', 'mode')\
 The modes are\
 'r' - read\
 'a' - append\
